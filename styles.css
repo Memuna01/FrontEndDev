@@ -63,3 +63,21 @@ a:hover{
     color: #000;
     background-color: #fff
 }
+
+.main-body{
+    width: 100%
+}
+.sidebar{
+    display: inline-block; 
+    width: 17%; 
+    border-right: 5px solid #f1f1f1;  
+    text-align: left;
+}
+.main-body p{
+    margin: 1%;
+}
+.main-body p ul {
+    list-style: none; 
+    font-family: 'Open Sans', sans-serif; 
+    text-decoration: none;
+}
